@@ -26,8 +26,6 @@ ds_<candidate_name>/
 
 │     ├── fear_greed_index.csv
 
-│     ├── historical_data.csv
-
 │     ├── merged_sentiment_trades.csv
 
 │     └── sentiment_summary.csv
@@ -71,6 +69,14 @@ Two datasets are used:
 * closed PnL
 
 * fees
+
+### Large Files
+
+Due to GitHub's 25MB limit, large files are hosted externally.
+
+Historical Trader Dataset: historical_data.csv
+https://drive.google.com/drive/folders/1xI_oa4rUIKP4jMGpJEUxDwmMRAOtyAOx?usp=sharing
+
 
 ### 2️⃣ Bitcoin Fear & Greed Index
 
